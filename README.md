@@ -1,5 +1,5 @@
 # discrete-counting-problem-check
-Short python program designed to check a discrete math counting problem
+Short python program designed to check a discrete math counting problem and translate said problem into code
 
 The problem is as follows.
 
