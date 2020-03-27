@@ -9,7 +9,7 @@ Rule 1: The number contains only the digits 1,2,3,4 and these digits may be repe
 
 Rule 2: The first digit is 1
 
-Rule 3: If D1D2 are consecutive digits and D1imageimageimageimage4 then D1 < D2
+Rule 3: If D1D2 are consecutive digits and D1 does not equal D2 then D1 < D2
 
 Rule 4: If D1D2 are consecutive digits and D1=4 then D2=1
 
